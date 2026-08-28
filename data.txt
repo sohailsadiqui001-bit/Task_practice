@@ -24,3 +24,4 @@ Update for day 23: 2026-08-24T00:00:00.000Z
 Update for day 24: 2026-08-25T00:00:00.000Z
 Update for day 25: 2026-08-26T00:00:00.000Z
 Update for day 26: 2026-08-27T00:00:00.000Z
+Update for day 27: 2026-08-28T00:00:00.000Z
