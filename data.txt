@@ -28,3 +28,4 @@ Update for day 27: 2026-08-28T00:00:00.000Z
 Update for day 28: 2026-08-29T00:00:00.000Z
 Update for day 29: 2026-08-30T00:00:00.000Z
 Update for day 30: 2026-08-31T00:00:00.000Z
+Update for day 31: 2026-09-01T00:00:00.000Z
